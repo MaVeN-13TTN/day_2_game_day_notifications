@@ -51,8 +51,8 @@ game-day-notifications/
 
 ### **Clone the Repository**
 ```bash
-git clone https://github.com/ifeanyiro9/game-day-notifications.git
-cd game-day-notifications
+git clone https://github.com/MaVeN-13TTN/day_2_game_day_notifications.git
+cd day_2_game_day_notifications
 ```
 
 ### **Create an SNS Topic**
@@ -141,6 +141,6 @@ cd game-day-notifications
 
 
 ### **Future Enhancements**
-1. Add NFL score alerts for extended functionality.
+1. Add NBA score alerts for extended functionality.
 2. Store user preferences (teams, game types) in DynamoDB for personalized alerts.
 3. Implement a web UI
